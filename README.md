@@ -99,6 +99,6 @@ module ha(a,b,sum,c);
 
 
 **Result**
-
+ Hence thus given To simulate and synthesis multiplier using vivado.
 
 
