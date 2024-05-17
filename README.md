@@ -31,6 +31,7 @@ STEP:11  On the board, by giving required input, the LEDs starts to glow light, 
 
 **Verilog code**
 2 bit Multiplier:
+
 ```
 module ha(a,b,sum,c);
  input a,b;
