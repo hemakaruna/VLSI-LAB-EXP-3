@@ -90,7 +90,7 @@ module ha(a,b,sum,c);
 **Output Waveform**
 2 bit Multiplier:
 
-![image](https://github.com/hemakaruna/VLSI-LAB-EXP-3/assets/160728787/8db181ee-d635-46f7-8210-b403ddb14dd9)
+![image](https://github.com/hemakaruna/VLSI-LAB-EXP-3/assets/160728787/7f1801ba-19d5-49ff-be60-5f6441d82ad7)
 
 4 Bit Multiplier:
 ![image](https://github.com/hemakaruna/VLSI-LAB-EXP-3/assets/160728787/11be5f84-63e3-445f-9238-0a374de20b1b)
